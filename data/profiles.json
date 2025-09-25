@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "title": "AI/Machine Learning Engineer",
+    "strategic_importance": "As the primary architects of the AI revolution, these engineers are responsible for designing, building, training, and deploying machine learning models and generative AI applications. This role is at the absolute forefront of innovation, directly creating new business value through automation, prediction, and intelligent systems.",
+    "core_responsibilities": [
+      "Full lifecycle management of models from data preprocessing to deployment",
+      "Data preprocessing and feature engineering",
+      "Model training and fine-tuning",
+      "Building and maintaining MLOps pipelines",
+      "Implementing Retrieval-Augmented Generation (RAG) systems",
+      "Advanced prompt engineering",
+      "Design and integration of autonomous AI agents"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Programming Languages",
+        "skills": [
+          "Python",
+          "Data science ecosystem (Pandas, Numpy, Scikit-Learn)"
+        ]
+      },
+      {
+        "domain": "Deep Learning Frameworks",
+        "skills": [
+          "TensorFlow",
+          "PyTorch"
+        ]
+      },
+      {
+        "domain": "MLOps and Infrastructure",
+        "skills": [
+          "MLflow for experiment tracking",
+          "Kubernetes for scalable deployment"
+        ]
+      },
+      {
+        "domain": "Generative AI Technologies",
+        "skills": [
+          "LangChain",
+          "LangGraph",
+          "Retrieval-Augmented Generation (RAG)"
+        ]
+      },
+      {
+        "domain": "Cloud Platforms",
+        "skills": [
+          "Azure AI",
+          "AWS SageMaker",
+          "Google Vertex AI"
+        ]
+      }
+    ],
+    "category": "AI/Data"
+  },
+  {
+    "id": 2,
+    "title": "Data Engineer",
+    "strategic_importance": "Data Engineers are the builders of the digital infrastructure that underpins all data-driven initiatives. They construct and manage the 'data highways'—pipelines, warehouses, and lakes—that make business analytics and AI possible. This role is foundational; without clean, reliable, and accessible data, both data science and machine learning efforts are destined to fail.",
+    "core_responsibilities": [
+      "Design, build, and maintain scalable ETL/ELT pipelines",
+      "Manage large-scale data storage systems (data warehouses and data lakes)",
+      "Implement data quality checks and ensure data governance",
+      "Optimize performance of data processing jobs",
+      "Ensure data security and timely delivery to stakeholders"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Database Technologies",
+        "skills": [
+          "Expert-level SQL",
+          "Cloud data warehousing (Snowflake, Databricks)"
+        ]
+      },
+      {
+        "domain": "Programming Languages",
+        "skills": [
+          "Python for scripting and automation"
+        ]
+      },
+      {
+        "domain": "Big Data Processing",
+        "skills": [
+          "Apache Spark for large-scale processing",
+          "Apache Kafka for real-time data streaming"
+        ]
+      },
+      {
+        "domain": "Workflow Orchestration",
+        "skills": [
+          "Apache Airflow",
+          "dbt for data transformation"
+        ]
+      },
+      {
+        "domain": "Cloud Data Services",
+        "skills": [
+          "AWS Glue",
+          "Azure Data Factory",
+          "Google BigQuery"
+        ]
+      }
+    ],
+    "category": "AI/Data"
+  },
+  {
+    "id": 3,
+    "title": "Cloud DevOps Engineer",
+    "strategic_importance": "The Cloud DevOps Engineer is the critical enabler of speed, scalability, and reliability in modern software development. This role bridges the traditional gap between development and operations by applying software engineering principles to infrastructure management. They create the automated, self-healing foundation upon which all modern cloud-native applications are built and deployed.",
+    "core_responsibilities": [
+      "Design, build, and manage CI/CD pipelines",
+      "Implement Infrastructure as Code (IaC)",
+      "Orchestrate containers at scale",
+      "Implement monitoring and observability solutions",
+      "Ensure health and performance of production environments"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Cloud Platforms",
+        "skills": [
+          "AWS",
+          "Azure",
+          "GCP"
+        ]
+      },
+      {
+        "domain": "Infrastructure as Code",
+        "skills": [
+          "Terraform"
+        ]
+      },
+      {
+        "domain": "Container Technologies",
+        "skills": [
+          "Docker for containerization",
+          "Kubernetes for container orchestration"
+        ]
+      },
+      {
+        "domain": "CI/CD Tools",
+        "skills": [
+          "Jenkins",
+          "GitHub Actions",
+          "Azure DevOps"
+        ]
+      },
+      {
+        "domain": "Monitoring and Observability",
+        "skills": [
+          "Prometheus",
+          "Grafana"
+        ]
+      }
+    ],
+    "category": "Infrastructure/Cloud"
+  },
+  {
+    "id": 4,
+    "title": "Full-Stack Developer (Modern Focus)",
+    "strategic_importance": "Full-Stack Developers are the versatile creators of user-facing web and mobile applications. They possess a broad skillset that spans both the front-end (client-side) and back-end (server-side) of an application. The modern Full-Stack Developer is distinguished by their ability to not only write code for both tiers but also to deploy and manage their applications in a cloud-native environment.",
+    "core_responsibilities": [
+      "End-to-end development of application features",
+      "Build responsive and interactive user interfaces",
+      "Design and develop server-side logic and APIs",
+      "Manage database interactions",
+      "Containerize and deploy applications to cloud platforms"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Programming Languages",
+        "skills": [
+          "JavaScript",
+          "TypeScript"
+        ]
+      },
+      {
+        "domain": "Front-End Frameworks",
+        "skills": [
+          "React",
+          "Angular"
+        ]
+      },
+      {
+        "domain": "Back-End Technologies",
+        "skills": [
+          "Node.js",
+          "Python with Django/FastAPI",
+          "Java with Spring Boot"
+        ]
+      },
+      {
+        "domain": "Database Technologies",
+        "skills": [
+          "SQL (PostgreSQL)",
+          "NoSQL (MongoDB)"
+        ]
+      },
+      {
+        "domain": "Cloud and Deployment",
+        "skills": [
+          "Cloud services",
+          "Docker for containerization"
+        ]
+      }
+    ],
+    "category": "Development"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Engineer",
+    "strategic_importance": "As organizations become more digitized, their exposure to cyber threats increases exponentially. The Cybersecurity Engineer is on the front lines of defense, designing and building the systems that protect critical infrastructure and sensitive data from attack. With the cost and frequency of data breaches rising, and stricter regulatory requirements being enforced, this role has become indispensable for business continuity and risk management. Demand for cybersecurity professionals is surging, with projections showing millions of unfilled positions globally by 2025.",
+    "core_responsibilities": [
+      "Architect, implement, and maintain security infrastructure",
+      "Conduct vulnerability assessments and penetration testing",
+      "Lead incident response efforts",
+      "Define and enforce security policies and best practices",
+      "Configure firewalls, intrusion detection/prevention systems, and endpoint protection"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Networking Fundamentals",
+        "skills": [
+          "TCP/IP",
+          "DNS",
+          "Routing",
+          "Secure network architecture"
+        ]
+      },
+      {
+        "domain": "Security Tools",
+        "skills": [
+          "Firewalls",
+          "Intrusion detection/prevention systems",
+          "Identity and access management"
+        ]
+      },
+      {
+        "domain": "Programming and Scripting",
+        "skills": [
+          "Python for automation"
+        ]
+      },
+      {
+        "domain": "Cloud Security",
+        "skills": [
+          "AWS security services",
+          "Azure security services",
+          "GCP security services"
+        ]
+      },
+      {
+        "domain": "Analytical and Soft Skills",
+        "skills": [
+          "Analytical abilities",
+          "Problem-solving",
+          "Communication skills"
+        ]
+      }
+    ],
+    "category": "Security"
+  },
+  {
+    "id": 6,
+    "title": "Platform Engineer",
+    "strategic_importance": "The rise of platform engineering is a direct response to the growing complexity of modern software development. As organizations adopt microservices, multi-cloud strategies, and a vast array of development tools, developers can become bogged down by 'cognitive load'—the mental effort required to navigate this complexity. The Platform Engineer addresses this challenge by building and managing a paved road for developers, known as an Internal Developer Platform (IDP). This platform provides a standardized, self-service toolkit for infrastructure, deployment, and monitoring, which dramatically increases developer productivity and accelerates the delivery of new features. This role is widely seen as the next evolution of DevOps, shifting from a project-based mindset to a product-based approach for internal tooling.",
+    "core_responsibilities": [
+      "Design, build, and maintain Internal Developer Platform (IDP)",
+      "Create automated CI/CD pipelines and infrastructure provisioning",
+      "Develop standardized templates and 'Golden Paths'",
+      "Abstract away underlying infrastructure complexity",
+      "Provide comprehensive observability tools"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Cloud Platforms",
+        "skills": [
+          "AWS",
+          "Azure",
+          "GCP"
+        ]
+      },
+      {
+        "domain": "Container Technologies",
+        "skills": [
+          "Docker for containerization",
+          "Kubernetes for orchestration"
+        ]
+      },
+      {
+        "domain": "Infrastructure as Code",
+        "skills": [
+          "Terraform"
+        ]
+      },
+      {
+        "domain": "CI/CD and Automation",
+        "skills": [
+          "GitHub Actions",
+          "Jenkins"
+        ]
+      },
+      {
+        "domain": "Observability",
+        "skills": [
+          "Prometheus",
+          "Grafana"
+        ]
+      },
+      {
+        "domain": "Programming Languages",
+        "skills": [
+          "Go",
+          "Python"
+        ]
+      }
+    ],
+    "category": "Infrastructure/Cloud"
+  },
+  {
+    "id": 7,
+    "title": "Data Scientist",
+    "strategic_importance": "In an economy where data is a primary asset, Data Scientists are the experts who transform raw data into strategic insights and business value. They go beyond traditional data analysis to build predictive models and machine learning algorithms that can forecast future trends, automate complex decisions, and create personalized customer experiences. The demand for these skills is projected to grow significantly, as organizations across all sectors seek to leverage their data to gain a competitive edge.",
+    "core_responsibilities": [
+      "Identify business questions and collect/clean data",
+      "Perform exploratory data analysis",
+      "Build, train, and validate predictive models",
+      "Apply statistical methods and machine learning algorithms",
+      "Communicate findings through visualization and storytelling"
+    ],
+    "essential_skills": [
+      {
+        "domain": "Programming Languages",
+        "skills": [
+          "Python",
+          "R",
+          "Data science libraries (Pandas, NumPy, Scikit-learn)"
+        ]
+      },
+      {
+        "domain": "Mathematical Skills and Knowledge",
+        "skills": [
+          "Statistics",
+          "Probability",
+          "Machine learning mathematics"
+        ]
+      },
+      {
+        "domain": "Database Technologies",
+        "skills": [
+          "Expert-level SQL"
+        ]
+      },
+      {
+        "domain": "Data Visualization",
+        "skills": [
+          "Tableau",
+          "Power BI"
+        ]
+      },
+      {
+        "domain": "Big Data Technologies",
+        "skills": [
+          "Apache Spark"
+        ]
+      },
+      {
+        "domain": "Advanced Frameworks",
+        "skills": [
+          "TensorFlow",
+          "PyTorch"
+        ]
+      }
+    ],
+    "category": "AI/Data"
+  }
+]

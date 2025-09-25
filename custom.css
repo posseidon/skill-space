@@ -1,0 +1,108 @@
+:root {
+    --primary-color: #EF4444; /* red-500 */
+    --secondary-color: #FFFFFF; /* white */
+    --background-color-light: #FFFFFF; /* white */
+    --background-color-dark: #000000; /* black */
+    --text-color-light: #000000; /* black */
+    --text-color-dark: #FFFFFF; /* white */
+    --border-color-light: #E5E7EB; /* gray-200 */
+    --border-color-dark: #374151; /* gray-700 */
+}
+
+.dark {
+    --background-color-light: var(--background-color-dark);
+    --text-color-light: var(--text-color-dark);
+    --border-color-light: var(--border-color-dark);
+}
+
+body {
+    background-color: var(--background-color-light);
+    color: var(--text-color-light);
+}
+
+.dark body {
+    background-color: var(--background-color-dark);
+    color: var(--text-color-dark);
+}
+
+/* Buttons */
+.bg-blue-700 {
+    background-color: transparent !important;
+    border: 1px solid var(--primary-color) !important;
+    color: var(--primary-color) !important;
+}
+
+.hover\:bg-blue-800:hover {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+.focus\:ring-blue-300:focus {
+    --tw-ring-color: var(--primary-color) !important;
+}
+
+.dark .bg-blue-600 {
+    background-color: transparent !important;
+    border: 1px solid var(--primary-color) !important;
+    color: var(--primary-color) !important;
+}
+
+.dark .hover\:bg-blue-700:hover {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+.dark .focus\:ring-blue-800:focus {
+    --tw-ring-color: var(--primary-color) !important;
+}
+
+/* Search Button */
+form button[type="submit"] {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+/* Badges */
+.bg-blue-100 {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+.text-blue-800 {
+    color: var(--secondary-color) !important;
+}
+
+.dark .bg-blue-900 {
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
+}
+
+.dark .text-blue-300 {
+    color: var(--secondary-color) !important;
+}
+
+/* Search Input */
+.bg-gray-50 {
+    background-color: transparent !important;
+}
+
+.border-gray-300 {
+    border-color: var(--border-color-light) !important;
+}
+
+.dark .bg-gray-700 {
+    background-color: transparent !important;
+}
+
+.dark .border-gray-600 {
+    border-color: var(--border-color-dark) !important;
+}
+
+/* Dropdown */
+.bg-gray-100 {
+    background-color: transparent !important;
+}
+
+.dark .bg-gray-700 {
+    background-color: transparent !important;
+}

@@ -1,0 +1,3404 @@
+[
+  {
+    "skill_id": "python_core",
+    "name": "Python.Core",
+    "description_short": "Core Python programming language fundamentals",
+    "description_long": "Python core programming including syntax, data structures, object-oriented programming, and standard libraries",
+    "domain": [
+      "Machine Learning",
+      "MLOps"
+    ],
+    "sub_domains": [
+      "Experiment Tracking",
+      "Model Registry",
+      "Model Deployment"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Research",
+      "Data Science"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://mlflow.org"
+  },
+  {
+    "skill_id": "evidently",
+    "name": "Evidently",
+    "description_short": "ML model monitoring and testing",
+    "description_long": "Open-source Python library for data scientists and ML engineers to evaluate, test, and monitor ML models",
+    "domain": [
+      "Machine Learning",
+      "Model Monitoring"
+    ],
+    "sub_domains": [
+      "Data Drift",
+      "Model Performance",
+      "ML Testing"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Data Science"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://evidentlyai.com"
+  },
+  {
+    "skill_id": "scala",
+    "name": "Scala",
+    "description_short": "JVM-based programming language",
+    "description_long": "General-purpose programming language providing support for both object-oriented and functional programming",
+    "domain": [
+      "Programming Language",
+      "Big Data"
+    ],
+    "sub_domains": [
+      "Functional Programming",
+      "Big Data Processing",
+      "Distributed Systems"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Big Data",
+      "Enterprise"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://scala-lang.org"
+  },
+  {
+    "skill_id": "go",
+    "name": "Go Language",
+    "description_short": "Systems programming language by Google",
+    "description_long": "Open source programming language that makes it easy to build simple, reliable, and efficient software",
+    "domain": [
+      "Programming Language",
+      "Systems Programming"
+    ],
+    "sub_domains": [
+      "Microservices",
+      "Cloud Native",
+      "Backend Development"
+    ],
+    "industries": [
+      "Technology",
+      "Cloud Services",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://golang.org"
+  },
+  {
+    "skill_id": "csharp",
+    "name": "C#",
+    "description_short": "Microsoft's object-oriented programming language",
+    "description_long": "General-purpose, multi-paradigm programming language encompassing strong typing and object-oriented programming",
+    "domain": [
+      "Programming Language",
+      "Enterprise Development"
+    ],
+    "sub_domains": [
+      "Web Development",
+      "Desktop Applications",
+      "Game Development"
+    ],
+    "industries": [
+      "Enterprise",
+      "Gaming",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  },
+  {
+    "skill_id": "kotlin",
+    "name": "Kotlin",
+    "description_short": "Modern programming language for JVM",
+    "description_long": "Cross-platform, statically typed, general-purpose programming language with type inference",
+    "domain": [
+      "Programming Language",
+      "Mobile Development"
+    ],
+    "sub_domains": [
+      "Android Development",
+      "Backend Development",
+      "Multiplatform"
+    ],
+    "industries": [
+      "Technology",
+      "Mobile",
+      "Enterprise",
+      "Startups"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://kotlinlang.org"
+  },
+  {
+    "skill_id": "elasticsearch",
+    "name": "Elasticsearch",
+    "description_short": "Distributed search and analytics engine",
+    "description_long": "Distributed, RESTful search and analytics engine capable of addressing a growing number of use cases",
+    "domain": [
+      "Search Engine",
+      "Analytics"
+    ],
+    "sub_domains": [
+      "Full-text Search",
+      "Log Analytics",
+      "Real-time Analytics"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Security"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://elastic.co"
+  },
+  {
+    "skill_id": "redis",
+    "name": "Redis",
+    "description_short": "In-memory data structure store",
+    "description_long": "Open source, in-memory data structure store, used as a database, cache, and message broker",
+    "domain": [
+      "Database",
+      "Caching"
+    ],
+    "sub_domains": [
+      "In-memory Storage",
+      "Session Management",
+      "Real-time Applications"
+    ],
+    "industries": [
+      "Technology",
+      "Gaming",
+      "E-commerce",
+      "Real-time Services"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://redis.io"
+  },
+  {
+    "skill_id": "grafana",
+    "name": "Grafana",
+    "description_short": "Multi-platform analytics and monitoring",
+    "description_long": "Multi-platform open source analytics and interactive visualization web application",
+    "domain": [
+      "Monitoring",
+      "Data Visualization"
+    ],
+    "sub_domains": [
+      "Dashboard Creation",
+      "Metrics Monitoring",
+      "Alerting"
+    ],
+    "industries": [
+      "Technology",
+      "DevOps",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://grafana.com"
+  },
+  {
+    "skill_id": "prometheus",
+    "name": "Prometheus",
+    "description_short": "Monitoring system and time series database",
+    "description_long": "Open-source systems monitoring and alerting toolkit with a dimensional data model",
+    "domain": [
+      "Monitoring",
+      "Time Series Database"
+    ],
+    "sub_domains": [
+      "Metrics Collection",
+      "Alerting",
+      "Service Discovery"
+    ],
+    "industries": [
+      "Technology",
+      "DevOps",
+      "Cloud Services",
+      "Infrastructure"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://prometheus.io"
+  },
+  {
+    "skill_id": "mysql",
+    "name": "MySQL",
+    "description_short": "Open-source relational database",
+    "description_long": "Open-source relational database management system based on SQL",
+    "domain": [
+      "Database",
+      "Data Storage"
+    ],
+    "sub_domains": [
+      "Relational Databases",
+      "Web Applications",
+      "Data Storage"
+    ],
+    "industries": [
+      "Technology",
+      "Web Development",
+      "E-commerce",
+      "Enterprise"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://mysql.com"
+  },
+  {
+    "skill_id": "mssql",
+    "name": "Microsoft SQL Server",
+    "description_short": "Microsoft's relational database system",
+    "description_long": "Relational database management system developed by Microsoft for enterprise environments",
+    "domain": [
+      "Database",
+      "Enterprise Data"
+    ],
+    "sub_domains": [
+      "Enterprise Databases",
+      "Business Intelligence",
+      "Data Warehousing"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://microsoft.com/en-us/sql-server"
+  },
+  {
+    "skill_id": "oracle_db",
+    "name": "Oracle RDBMS",
+    "description_short": "Enterprise relational database system",
+    "description_long": "Multi-model database management system produced and marketed by Oracle Corporation",
+    "domain": [
+      "Database",
+      "Enterprise Data"
+    ],
+    "sub_domains": [
+      "Enterprise Databases",
+      "Data Warehousing",
+      "High-Performance Computing"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Government",
+      "Large Corporations"
+    ],
+    "demand": "medium",
+    "trend": "low",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://oracle.com/database"
+  },
+  {
+    "skill_id": "devops",
+    "name": "DevOps",
+    "description_short": "Development and Operations integration",
+    "description_long": "Set of practices that combines software development and IT operations to shorten development lifecycle",
+    "domain": [
+      "Software Development",
+      "Operations"
+    ],
+    "sub_domains": [
+      "CI/CD",
+      "Infrastructure Automation",
+      "Monitoring"
+    ],
+    "industries": [
+      "Technology",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "agile",
+    "name": "Agile",
+    "description_short": "Iterative software development methodology",
+    "description_long": "Set of principles for software development under which requirements and solutions evolve through collaboration",
+    "domain": [
+      "Project Management",
+      "Software Development"
+    ],
+    "sub_domains": [
+      "Scrum",
+      "Kanban",
+      "Lean Development"
+    ],
+    "industries": [
+      "Technology",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "microservices",
+    "name": "Microservice Architecture Style",
+    "description_short": "Distributed system architecture pattern",
+    "description_long": "Architectural approach that structures an application as a collection of loosely coupled services",
+    "domain": [
+      "Software Architecture",
+      "Distributed Systems"
+    ],
+    "sub_domains": [
+      "Service Design",
+      "API Design",
+      "Distributed Computing"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Finance",
+      "Large Scale Systems"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "oauth2",
+    "name": "OAuth2",
+    "description_short": "Authorization framework",
+    "description_long": "Authorization framework that enables applications to obtain limited access to user accounts",
+    "domain": [
+      "Security",
+      "Authentication"
+    ],
+    "sub_domains": [
+      "API Security",
+      "Single Sign-On",
+      "Token Management"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "html",
+    "name": "HTML",
+    "description_short": "Hypertext Markup Language",
+    "description_long": "Standard markup language for creating web pages and web applications",
+    "domain": [
+      "Web Development",
+      "Frontend"
+    ],
+    "sub_domains": [
+      "Web Structure",
+      "Semantic Markup",
+      "Accessibility"
+    ],
+    "industries": [
+      "Technology",
+      "Web Development",
+      "Digital Media",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "css",
+    "name": "CSS",
+    "description_short": "Cascading Style Sheets",
+    "description_long": "Style sheet language used for describing the presentation of a document written in HTML",
+    "domain": [
+      "Web Development",
+      "Frontend"
+    ],
+    "sub_domains": [
+      "Web Styling",
+      "Responsive Design",
+      "UI Design"
+    ],
+    "industries": [
+      "Technology",
+      "Web Development",
+      "Digital Design",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "linux",
+    "name": "Linux",
+    "description_short": "Open-source operating system",
+    "description_long": "Family of open-source Unix-like operating systems based on the Linux kernel",
+    "domain": [
+      "Operating Systems",
+      "Infrastructure"
+    ],
+    "sub_domains": [
+      "System Administration",
+      "Server Management",
+      "DevOps"
+    ],
+    "industries": [
+      "Technology",
+      "Cloud Services",
+      "Enterprise",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "python",
+    "name": "Python",
+    "description_short": "Python programming language",
+    "description_long": "",
+    "domains": [
+      "Programming Language",
+      "Data Science",
+      "Web Development",
+      "Automation"
+    ],
+    "sub_domains": [
+      "Backend Development",
+      "Scripting",
+      "Data Analysis"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "E-commerce",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "Python is one of the most demanded programming languages by recruiters in 2024",
+    "future_need": "high",
+    "resources": "https://python.org"
+  },
+  {
+    "skill_id": "python_web",
+    "name": "Python.Web",
+    "description_short": "Python web development frameworks and tools",
+    "description_long": "Web development using Python frameworks like Django, Flask, FastAPI for building web applications and APIs",
+    "domain": [
+      "Web Development",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "API Development",
+      "Web Frameworks",
+      "Microservices"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Finance",
+      "Media"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "python_ml",
+    "name": "Python.ML",
+    "description_short": "Python for machine learning and data science",
+    "description_long": "Using Python for machine learning, data analysis, and artificial intelligence with libraries like scikit-learn, pandas, numpy",
+    "domain": [
+      "Machine Learning",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "sub_domains": [
+      "Supervised Learning",
+      "Data Analysis",
+      "Model Development"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Research",
+      "Automotive"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "aws",
+    "name": "Amazon Web Services",
+    "description_short": "Amazon's cloud computing platform",
+    "description_long": "Cloud computing services including EC2, S3, Lambda, RDS, and other AWS services for scalable cloud infrastructure",
+    "domain": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "sub_domains": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "DevOps"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "E-commerce",
+      "Government"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "AWS holds 31% of the global cloud infrastructure market with continued growth",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com"
+  },
+  {
+    "skill_id": "azure",
+    "name": "Microsoft Azure",
+    "description_short": "Microsoft's cloud computing platform",
+    "description_long": "Cloud computing services and solutions including virtual machines, databases, AI services, and enterprise applications",
+    "domain": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "sub_domains": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "AI Services"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "Microsoft Azure captured nearly 25% of the global cloud market with 33% revenue growth",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com"
+  },
+  {
+    "skill_id": "docker",
+    "name": "Docker",
+    "description_short": "Containerization platform",
+    "description_long": "Container platform for developing, shipping, and running applications in isolated environments",
+    "domain": [
+      "DevOps",
+      "Containerization"
+    ],
+    "sub_domains": [
+      "Container Orchestration",
+      "Microservices",
+      "CI/CD"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://docker.com"
+  },
+  {
+    "skill_id": "kubernetes",
+    "name": "Kubernetes",
+    "description_short": "Container orchestration platform",
+    "description_long": "Open-source container orchestration system for automating deployment, scaling, and management of containerized applications",
+    "domain": [
+      "DevOps",
+      "Container Orchestration"
+    ],
+    "sub_domains": [
+      "Microservices",
+      "Cloud Native",
+      "Infrastructure Management"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://kubernetes.io"
+  },
+  {
+    "skill_id": "terraform",
+    "name": "Terraform",
+    "description_short": "Infrastructure as Code tool",
+    "description_long": "Infrastructure automation tool for building, changing, and versioning infrastructure safely and efficiently",
+    "domain": [
+      "DevOps",
+      "Infrastructure as Code"
+    ],
+    "sub_domains": [
+      "Cloud Provisioning",
+      "Infrastructure Management",
+      "Automation"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://terraform.io"
+  },
+  {
+    "skill_id": "java",
+    "name": "Java",
+    "description_short": "Object-oriented programming language",
+    "description_long": "Platform-independent programming language widely used for enterprise applications, web development, and Android development",
+    "domain": [
+      "Programming Language",
+      "Enterprise Development"
+    ],
+    "sub_domains": [
+      "Backend Development",
+      "Web Development",
+      "Mobile Development"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Enterprise",
+      "Healthcare",
+      "Banking"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "Java remains one of the most demanded programming languages by recruiters",
+    "future_need": "high",
+    "resources": "https://java.com"
+  },
+  {
+    "skill_id": "javascript",
+    "name": "JavaScript",
+    "description_short": "Dynamic programming language for web development",
+    "description_long": "Programming language for creating interactive web pages, server-side development, and mobile applications",
+    "domain": [
+      "Programming Language",
+      "Web Development"
+    ],
+    "sub_domains": [
+      "Frontend Development",
+      "Backend Development",
+      "Full-Stack Development"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Finance",
+      "Entertainment"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "JavaScript is one of the most demanded programming languages by recruiters",
+    "future_need": "high",
+    "resources": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "skill_id": "typescript",
+    "name": "TypeScript",
+    "description_short": "Typed superset of JavaScript",
+    "description_long": "Strongly typed programming language that builds on JavaScript, giving better tooling at any scale",
+    "domain": [
+      "Programming Language",
+      "Web Development"
+    ],
+    "sub_domains": [
+      "Frontend Development",
+      "Backend Development",
+      "Type Safety"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Finance",
+      "Media"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "TypeScript has grown in popularity with close to 40% of developers using it",
+    "future_need": "high",
+    "resources": "https://www.typescriptlang.org"
+  },
+  {
+    "skill_id": "react",
+    "name": "ReactJS",
+    "description_short": "JavaScript library for building user interfaces",
+    "description_long": "Component-based JavaScript library for building user interfaces, particularly web applications",
+    "domain": [
+      "Web Development",
+      "Frontend Development"
+    ],
+    "sub_domains": [
+      "Component Architecture",
+      "Single Page Applications",
+      "UI Development"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Finance",
+      "Entertainment"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://reactjs.org"
+  },
+  {
+    "skill_id": "angular",
+    "name": "Angular",
+    "description_short": "TypeScript-based web application framework",
+    "description_long": "Platform and framework for building single-page client applications using HTML and TypeScript",
+    "domain": [
+      "Web Development",
+      "Frontend Development"
+    ],
+    "sub_domains": [
+      "Single Page Applications",
+      "Enterprise Applications",
+      "Component Architecture"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://angular.io"
+  },
+  {
+    "skill_id": "sql",
+    "name": "SQL",
+    "description_short": "Structured Query Language for databases",
+    "description_long": "Standard language for storing, manipulating and retrieving data in relational databases",
+    "domain": [
+      "Database",
+      "Data Management"
+    ],
+    "sub_domains": [
+      "Database Design",
+      "Data Analysis",
+      "Database Administration"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Retail",
+      "Government"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "SQL is highly-desired programming language according to Stack Overflow surveys",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "postgresql",
+    "name": "PostgreSQL",
+    "description_short": "Open-source relational database",
+    "description_long": "Advanced open-source relational database management system with strong support for SQL standards",
+    "domain": [
+      "Database",
+      "Data Storage"
+    ],
+    "sub_domains": [
+      "Relational Databases",
+      "Data Storage",
+      "Database Administration"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://postgresql.org"
+  },
+  {
+    "skill_id": "mongodb",
+    "name": "MongoDB",
+    "description_short": "NoSQL document database",
+    "description_long": "Document-based NoSQL database for storing and retrieving data in JSON-like documents",
+    "domain": [
+      "Database",
+      "NoSQL"
+    ],
+    "sub_domains": [
+      "Document Databases",
+      "Big Data",
+      "Real-time Applications"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Gaming"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://mongodb.com"
+  },
+  {
+    "skill_id": "kafka",
+    "name": "Apache Kafka",
+    "description_short": "Distributed streaming platform",
+    "description_long": "Open-source distributed event streaming platform for high-performance data pipelines and streaming analytics",
+    "domain": [
+      "Big Data",
+      "Streaming"
+    ],
+    "sub_domains": [
+      "Event Streaming",
+      "Real-time Data Processing",
+      "Message Queuing"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Media"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://kafka.apache.org"
+  },
+  {
+    "skill_id": "spark",
+    "name": "Apache Spark",
+    "description_short": "Unified analytics engine for big data",
+    "description_long": "Open-source unified analytics engine for large-scale data processing with built-in modules for streaming, SQL, ML and graph processing",
+    "domain": [
+      "Big Data",
+      "Analytics"
+    ],
+    "sub_domains": [
+      "Data Processing",
+      "Machine Learning",
+      "Stream Processing"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://spark.apache.org"
+  },
+  {
+    "skill_id": "pyspark",
+    "name": "PySpark",
+    "description_short": "Python API for Apache Spark",
+    "description_long": "Python interface for Apache Spark, enabling Python programmers to harness the power of Spark",
+    "domain": [
+      "Big Data",
+      "Data Science"
+    ],
+    "sub_domains": [
+      "Data Processing",
+      "Distributed Computing",
+      "ETL"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "airflow",
+    "name": "Apache Airflow",
+    "description_short": "Workflow orchestration platform",
+    "description_long": "Platform to programmatically author, schedule, and monitor workflows for data engineering pipelines",
+    "domain": [
+      "Data Engineering",
+      "Workflow Orchestration"
+    ],
+    "sub_domains": [
+      "ETL/ELT",
+      "Data Pipelines",
+      "Batch Processing"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://airflow.apache.org"
+  },
+  {
+    "skill_id": "databricks",
+    "name": "Databricks",
+    "description_short": "Unified analytics platform",
+    "description_long": "Cloud-based platform that combines data engineering, data science, and machine learning workflows",
+    "domain": [
+      "Big Data",
+      "Machine Learning",
+      "Analytics"
+    ],
+    "sub_domains": [
+      "Data Engineering",
+      "ML Operations",
+      "Collaborative Analytics"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://databricks.com"
+  },
+  {
+    "skill_id": "snowflake",
+    "name": "Snowflake",
+    "description_short": "Cloud data platform",
+    "description_long": "Cloud-based data warehouse that enables data storage, processing, and analytic solutions",
+    "domain": [
+      "Data Warehouse",
+      "Cloud Data Platform"
+    ],
+    "sub_domains": [
+      "Data Storage",
+      "Data Analytics",
+      "Data Sharing"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://snowflake.com"
+  },
+  {
+    "skill_id": "rest_api",
+    "name": "REST API",
+    "description_short": "Representational State Transfer API design",
+    "description_long": "Architectural style for designing networked applications using HTTP methods and stateless communication",
+    "domain": [
+      "API Development",
+      "Web Services"
+    ],
+    "sub_domains": [
+      "Web Services",
+      "Microservices",
+      "Integration"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "graphql",
+    "name": "GraphQL",
+    "description_short": "Query language and runtime for APIs",
+    "description_long": "Data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data",
+    "domain": [
+      "API Development",
+      "Data Query"
+    ],
+    "sub_domains": [
+      "API Design",
+      "Data Fetching",
+      "Schema Definition"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Social Networks"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://graphql.org"
+  },
+  {
+    "skill_id": "fastapi",
+    "name": "FastAPI",
+    "description_short": "Modern Python web framework for APIs",
+    "description_long": "Fast, modern web framework for building APIs with Python based on standard Python type hints",
+    "domain": [
+      "Web Development",
+      "API Development"
+    ],
+    "sub_domains": [
+      "Python Web Frameworks",
+      "Microservices",
+      "API Design"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "E-commerce"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://fastapi.tiangolo.com"
+  },
+  {
+    "skill_id": "django",
+    "name": "Django",
+    "description_short": "Python web framework",
+    "description_long": "High-level Python web framework that encourages rapid development and clean, pragmatic design",
+    "domain": [
+      "Web Development",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "Python Web Frameworks",
+      "Full-Stack Development",
+      "Content Management"
+    ],
+    "industries": [
+      "Technology",
+      "Media",
+      "E-commerce",
+      "Education"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://djangoproject.com"
+  },
+  {
+    "skill_id": "flask",
+    "name": "Flask",
+    "description_short": "Lightweight Python web framework",
+    "description_long": "Micro web framework written in Python, designed to make getting started quick and easy",
+    "domain": [
+      "Web Development",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "Python Web Frameworks",
+      "Microservices",
+      "API Development"
+    ],
+    "industries": [
+      "Technology",
+      "Startups",
+      "Education",
+      "Prototyping"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://flask.palletsprojects.com"
+  },
+  {
+    "skill_id": "spring_boot",
+    "name": "Spring Boot",
+    "description_short": "Java application framework",
+    "description_long": "Framework that makes it easy to create stand-alone, production-grade Spring-based Applications",
+    "domain": [
+      "Enterprise Development",
+      "Java Framework"
+    ],
+    "sub_domains": [
+      "Microservices",
+      "Enterprise Applications",
+      "Backend Development"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Banking",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://spring.io/projects/spring-boot"
+  },
+  {
+    "skill_id": "nodejs",
+    "name": "Node.js",
+    "description_short": "JavaScript runtime for server-side development",
+    "description_long": "JavaScript runtime built on Chrome's V8 JavaScript engine for building scalable network applications",
+    "domain": [
+      "Backend Development",
+      "JavaScript Runtime"
+    ],
+    "sub_domains": [
+      "API Development",
+      "Real-time Applications",
+      "Microservices"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Real-time Services"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://nodejs.org"
+  },
+  {
+    "skill_id": "git",
+    "name": "Git",
+    "description_short": "Distributed version control system",
+    "description_long": "Distributed version control system for tracking changes in source code during software development",
+    "domain": [
+      "Version Control",
+      "Development Tools"
+    ],
+    "sub_domains": [
+      "Source Control",
+      "Collaboration",
+      "DevOps"
+    ],
+    "industries": [
+      "Technology",
+      "Software Development",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://git-scm.com"
+  },
+  {
+    "skill_id": "github_actions",
+    "name": "GitHub Actions",
+    "description_short": "CI/CD platform by GitHub",
+    "description_long": "Platform for automating software development workflows directly in GitHub repositories",
+    "domain": [
+      "CI/CD",
+      "DevOps"
+    ],
+    "sub_domains": [
+      "Automation",
+      "Testing",
+      "Deployment"
+    ],
+    "industries": [
+      "Technology",
+      "Software Development",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://github.com/features/actions"
+  },
+  {
+    "skill_id": "jenkins",
+    "name": "Jenkins",
+    "description_short": "Open source CI/CD automation server",
+    "description_long": "Open source automation server for continuous integration and continuous deployment",
+    "domain": [
+      "CI/CD",
+      "DevOps"
+    ],
+    "sub_domains": [
+      "Build Automation",
+      "Testing",
+      "Deployment"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://jenkins.io"
+  },
+  {
+    "skill_id": "machine_learning",
+    "name": "Machine Learning",
+    "description_short": "AI technique for data-driven predictions",
+    "description_long": "Field of artificial intelligence that uses statistical techniques to give computers the ability to learn from data",
+    "domain": [
+      "Artificial Intelligence",
+      "Data Science"
+    ],
+    "sub_domains": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Deep Learning"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Automotive",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "deep_learning",
+    "name": "Deep Learning",
+    "description_short": "Neural network-based machine learning",
+    "description_long": "Subset of machine learning based on artificial neural networks with representation learning",
+    "domain": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "sub_domains": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Automotive",
+      "Finance",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "nlp",
+    "name": "Natural Language Processing",
+    "description_short": "AI for understanding human language",
+    "description_long": "Field of AI that gives computers the ability to understand, interpret and manipulate human language",
+    "domain": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "sub_domains": [
+      "Text Processing",
+      "Language Understanding",
+      "Speech Recognition"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Media",
+      "Customer Service"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "langchain",
+    "name": "LangChain",
+    "description_short": "Framework for developing LLM applications",
+    "description_long": "Framework designed to simplify the creation of applications using large language models",
+    "domain": [
+      "Artificial Intelligence",
+      "LLM Development"
+    ],
+    "sub_domains": [
+      "AI Agents",
+      "Prompt Engineering",
+      "Chain of Thought"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Software Development"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://langchain.com"
+  },
+  {
+    "skill_id": "langgraph",
+    "name": "LangGraph",
+    "description_short": "Library for building stateful AI agents",
+    "description_long": "Library for building stateful, multi-actor applications with LLMs, built on LangChain",
+    "domain": [
+      "Artificial Intelligence",
+      "AI Agents"
+    ],
+    "sub_domains": [
+      "Stateful Agents",
+      "Multi-Agent Systems",
+      "Workflow Orchestration"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Automation"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "rag",
+    "name": "Retrieval-Augmented Generation (RAG)",
+    "description_short": "AI technique combining retrieval and generation",
+    "description_long": "Machine learning technique that combines information retrieval with text generation for more accurate AI responses",
+    "domain": [
+      "Artificial Intelligence",
+      "Information Retrieval"
+    ],
+    "sub_domains": [
+      "Vector Databases",
+      "Semantic Search",
+      "Document Processing"
+    ],
+    "industries": [
+      "Technology",
+      "Knowledge Management",
+      "Customer Service",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "ai_agents",
+    "name": "AI Agents",
+    "description_short": "Autonomous AI systems for task execution",
+    "description_long": "Autonomous systems that can perceive their environment and take actions to achieve specific goals",
+    "domain": [
+      "Artificial Intelligence",
+      "Automation"
+    ],
+    "sub_domains": [
+      "Multi-Agent Systems",
+      "Task Automation",
+      "Decision Making"
+    ],
+    "industries": [
+      "Technology",
+      "Automation",
+      "Customer Service",
+      "Finance"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "prompt_engineering",
+    "name": "Prompt Engineering",
+    "description_short": "Optimizing AI model interactions",
+    "description_long": "The practice of designing and optimizing prompts to effectively communicate with AI language models",
+    "domain": [
+      "Artificial Intelligence",
+      "AI Optimization"
+    ],
+    "sub_domains": [
+      "AI Communication",
+      "Model Fine-tuning",
+      "Response Optimization"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Content Creation",
+      "Customer Service"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "pandas",
+    "name": "Pandas",
+    "description_short": "Python data manipulation library",
+    "description_long": "Python library providing data structures and data analysis tools for handling structured data",
+    "domain": [
+      "Data Science",
+      "Data Analysis"
+    ],
+    "sub_domains": [
+      "Data Manipulation",
+      "Data Cleaning",
+      "Statistical Analysis"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Research",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://pandas.pydata.org"
+  },
+  {
+    "skill_id": "numpy",
+    "name": "Numpy",
+    "description_short": "Python numerical computing library",
+    "description_long": "Fundamental package for scientific computing in Python, providing multidimensional arrays and mathematical functions",
+    "domain": [
+      "Data Science",
+      "Scientific Computing"
+    ],
+    "sub_domains": [
+      "Numerical Analysis",
+      "Array Processing",
+      "Mathematical Computing"
+    ],
+    "industries": [
+      "Technology",
+      "Research",
+      "Finance",
+      "Engineering"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://numpy.org"
+  },
+  {
+    "skill_id": "scikit_learn",
+    "name": "Scikit-Learn",
+    "description_short": "Python machine learning library",
+    "description_long": "Machine learning library for Python providing simple and efficient tools for predictive data analysis",
+    "domain": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "sub_domains": [
+      "Classification",
+      "Regression",
+      "Clustering"
+    ],
+    "industries": [
+      "Technology",
+      "Research",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://scikit-learn.org"
+  },
+  {
+    "skill_id": "terraform_iac",
+    "name": "Infrastructure as Code Development and Maintenance",
+    "description_short": "Managing infrastructure through code",
+    "description_long": "Practice of managing and provisioning computing infrastructure through machine-readable definition files",
+    "domain": [
+      "DevOps",
+      "Infrastructure Management"
+    ],
+    "sub_domains": [
+      "Cloud Provisioning",
+      "Infrastructure Automation",
+      "Configuration Management"
+    ],
+    "industries": [
+      "Technology",
+      "Cloud Services",
+      "Enterprise"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "dbt",
+    "name": "Dbt",
+    "description_short": "Data transformation tool",
+    "description_long": "Tool that enables data analysts and engineers to transform data in their warehouse more effectively",
+    "domain": [
+      "Data Engineering",
+      "Analytics"
+    ],
+    "sub_domains": [
+      "Data Transformation",
+      "Analytics Engineering",
+      "Data Modeling"
+    ],
+    "industries": [
+      "Technology",
+      "Data Analytics",
+      "Finance",
+      "E-commerce"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://getdbt.com"
+  },
+  {
+    "skill_id": "mlops",
+    "name": "MLOps",
+    "description_short": "Machine Learning Operations",
+    "description_long": "Set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently",
+    "domain": [
+      "Machine Learning",
+      "DevOps"
+    ],
+    "sub_domains": [
+      "Model Deployment",
+      "ML Pipeline",
+      "Model Monitoring"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "mlflow",
+    "name": "MLflow",
+    "description_short": "Open source platform for ML lifecycle",
+    "description_long": "Open source platform for managing the complete machine learning lifecycle",
+    "domain": [
+      "Machine Learning",
+      "MLOps"
+    ],
+    "sub_domains": [
+      "Experiment Tracking",
+      "Model Registry",
+      "Model Deployment"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Research",
+      "Data Science"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://mlflow.org"
+  },
+  {
+    "skill_id": "evidently",
+    "name": "Evidently",
+    "description_short": "ML model monitoring and testing",
+    "description_long": "Open-source Python library for data scientists and ML engineers to evaluate, test, and monitor ML models",
+    "domain": [
+      "Machine Learning",
+      "Model Monitoring"
+    ],
+    "sub_domains": [
+      "Data Drift",
+      "Model Performance",
+      "ML Testing"
+    ],
+    "industries": [
+      "Technology",
+      "AI/ML",
+      "Data Science"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://evidentlyai.com"
+  },
+  {
+    "skill_id": "aws_lambda",
+    "name": "AWS Lambda",
+    "description_short": "Serverless computing service",
+    "description_long": "Event-driven, serverless computing platform that runs code in response to events",
+    "domain": [
+      "Cloud Computing",
+      "Serverless"
+    ],
+    "sub_domains": [
+      "Function as a Service",
+      "Event Processing",
+      "Microservices"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "IoT"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/lambda"
+  },
+  {
+    "skill_id": "aws_glue",
+    "name": "AWS Glue",
+    "description_short": "Serverless data integration service",
+    "description_long": "Fully managed extract, transform, and load (ETL) service for data preparation",
+    "domain": [
+      "Data Engineering",
+      "ETL"
+    ],
+    "sub_domains": [
+      "Data Integration",
+      "Data Cataloging",
+      "Schema Discovery"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/glue"
+  },
+  {
+    "skill_id": "aws_step_functions",
+    "name": "AWS Step Functions",
+    "description_short": "Serverless workflow orchestration",
+    "description_long": "Visual workflow service that helps developers build distributed applications using AWS services",
+    "domain": [
+      "Cloud Computing",
+      "Workflow Orchestration"
+    ],
+    "sub_domains": [
+      "State Machines",
+      "Process Automation",
+      "Service Coordination"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "E-commerce"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/step-functions"
+  },
+  {
+    "skill_id": "aws_batch",
+    "name": "AWS Batch",
+    "description_short": "Batch computing service",
+    "description_long": "Fully managed batch computing service that plans, schedules, and executes batch computing workloads",
+    "domain": [
+      "Cloud Computing",
+      "Batch Processing"
+    ],
+    "sub_domains": [
+      "Job Scheduling",
+      "Resource Management",
+      "High Performance Computing"
+    ],
+    "industries": [
+      "Technology",
+      "Research",
+      "Finance",
+      "Life Sciences"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://aws.amazon.com/batch"
+  },
+  {
+    "skill_id": "aws_cloudwatch",
+    "name": "Amazon CloudWatch",
+    "description_short": "Monitoring and observability service",
+    "description_long": "Monitoring service for AWS cloud resources and applications running on AWS",
+    "domain": [
+      "Cloud Computing",
+      "Monitoring"
+    ],
+    "sub_domains": [
+      "Metrics Monitoring",
+      "Log Management",
+      "Alerting"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "E-commerce"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/cloudwatch"
+  },
+  {
+    "skill_id": "aws_dynamodb",
+    "name": "Amazon DynamoDB",
+    "description_short": "NoSQL database service",
+    "description_long": "Fully managed NoSQL database service that provides fast and predictable performance",
+    "domain": [
+      "Database",
+      "NoSQL"
+    ],
+    "sub_domains": [
+      "Key-Value Store",
+      "Document Database",
+      "Serverless"
+    ],
+    "industries": [
+      "Technology",
+      "Gaming",
+      "E-commerce",
+      "Mobile"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/dynamodb"
+  },
+  {
+    "skill_id": "aws_ecs",
+    "name": "Amazon Elastic Container Service",
+    "description_short": "Container orchestration service",
+    "description_long": "Fully managed container orchestration service for Docker containers",
+    "domain": [
+      "Cloud Computing",
+      "Container Orchestration"
+    ],
+    "sub_domains": [
+      "Docker Management",
+      "Service Discovery",
+      "Load Balancing"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/ecs"
+  },
+  {
+    "skill_id": "aws_eks",
+    "name": "Amazon Elastic Kubernetes Service",
+    "description_short": "Managed Kubernetes service",
+    "description_long": "Fully managed Kubernetes service that makes it easy to deploy, manage, and scale containerized applications",
+    "domain": [
+      "Cloud Computing",
+      "Container Orchestration"
+    ],
+    "sub_domains": [
+      "Kubernetes Management",
+      "Container Deployment",
+      "Cluster Management"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://aws.amazon.com/eks"
+  },
+  {
+    "skill_id": "azure_devops",
+    "name": "Azure DevOps",
+    "description_short": "DevOps services suite",
+    "description_long": "Set of development tools and services for planning, developing, testing, and deploying applications",
+    "domain": [
+      "DevOps",
+      "Project Management"
+    ],
+    "sub_domains": [
+      "Source Control",
+      "Build Automation",
+      "Release Management"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/devops"
+  },
+  {
+    "skill_id": "azure_kubernetes",
+    "name": "Azure Kubernetes Service",
+    "description_short": "Managed Kubernetes service on Azure",
+    "description_long": "Managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications",
+    "domain": [
+      "Cloud Computing",
+      "Container Orchestration"
+    ],
+    "sub_domains": [
+      "Kubernetes Management",
+      "Container Deployment",
+      "Azure Integration"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/kubernetes-service"
+  },
+  {
+    "skill_id": "azure_databricks",
+    "name": "Azure Databricks",
+    "description_short": "Analytics platform on Azure",
+    "description_long": "Apache Spark-based analytics platform optimized for Microsoft Azure cloud services",
+    "domain": [
+      "Big Data",
+      "Analytics",
+      "Machine Learning"
+    ],
+    "sub_domains": [
+      "Data Engineering",
+      "Data Science",
+      "ML Operations"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/databricks"
+  },
+  {
+    "skill_id": "azure_data_explorer",
+    "name": "Azure Data Explorer",
+    "description_short": "Fast analytics service for big data",
+    "description_long": "Fast, fully managed data analytics service for real-time analysis on large volumes of data",
+    "domain": [
+      "Big Data",
+      "Real-time Analytics"
+    ],
+    "sub_domains": [
+      "Time Series Analysis",
+      "Log Analytics",
+      "IoT Analytics"
+    ],
+    "industries": [
+      "Technology",
+      "IoT",
+      "Monitoring",
+      "Finance"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/data-explorer"
+  },
+  {
+    "skill_id": "azure_monitor",
+    "name": "Azure Monitor",
+    "description_short": "Full-stack monitoring service",
+    "description_long": "Comprehensive solution for collecting, analyzing, and responding to monitoring data",
+    "domain": [
+      "Cloud Computing",
+      "Monitoring"
+    ],
+    "sub_domains": [
+      "Application Monitoring",
+      "Infrastructure Monitoring",
+      "Log Analytics"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/monitor"
+  },
+  {
+    "skill_id": "azure_ai",
+    "name": "Azure AI",
+    "description_short": "AI services and tools on Azure",
+    "description_long": "Comprehensive set of AI services and cognitive APIs for building intelligent applications",
+    "domain": [
+      "Artificial Intelligence",
+      "Cloud Services"
+    ],
+    "sub_domains": [
+      "Cognitive Services",
+      "Machine Learning",
+      "AI Development"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/overview/ai-platform"
+  },
+  {
+    "skill_id": "azure_ml",
+    "name": "Azure Machine Learning",
+    "description_short": "Cloud-based machine learning service",
+    "description_long": "Cloud service for accelerating and managing the machine learning project lifecycle",
+    "domain": [
+      "Machine Learning",
+      "Cloud Services"
+    ],
+    "sub_domains": [
+      "Model Training",
+      "Model Deployment",
+      "MLOps"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Manufacturing"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/machine-learning"
+  },
+  {
+    "skill_id": "azure_blob_storage",
+    "name": "Azure Blob Storage",
+    "description_short": "Object storage service",
+    "description_long": "Massively scalable object storage for unstructured data like text and binary data",
+    "domain": [
+      "Cloud Storage",
+      "Data Storage"
+    ],
+    "sub_domains": [
+      "Object Storage",
+      "Data Archiving",
+      "Content Distribution"
+    ],
+    "industries": [
+      "Technology",
+      "Media",
+      "Healthcare",
+      "Finance"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/storage/blobs"
+  },
+  {
+    "skill_id": "azure_sql",
+    "name": "Azure SQL Managed Instance",
+    "description_short": "Managed SQL Server instance in Azure",
+    "description_long": "Intelligent, fully managed relational cloud database service based on SQL Server",
+    "domain": [
+      "Database",
+      "Cloud Services"
+    ],
+    "sub_domains": [
+      "Managed Databases",
+      "Enterprise Data",
+      "Database Migration"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://azure.microsoft.com/en-us/products/azure-sql/managed-instance"
+  },
+  {
+    "skill_id": "azure_event_hubs",
+    "name": "Azure Event Hubs",
+    "description_short": "Big data streaming platform",
+    "description_long": "Fully managed, real-time data ingestion service for streaming millions of events per second",
+    "domain": [
+      "Big Data",
+      "Event Streaming"
+    ],
+    "sub_domains": [
+      "Data Ingestion",
+      "Real-time Processing",
+      "Event Processing"
+    ],
+    "industries": [
+      "Technology",
+      "IoT",
+      "Finance",
+      "Telecommunications"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/event-hubs"
+  },
+  {
+    "skill_id": "azure_pipelines",
+    "name": "Azure Pipelines",
+    "description_short": "CI/CD service in Azure DevOps",
+    "description_long": "Cloud service for automatically building, testing, and deploying code to any target",
+    "domain": [
+      "DevOps",
+      "CI/CD"
+    ],
+    "sub_domains": [
+      "Build Automation",
+      "Deployment Automation",
+      "Testing"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://azure.microsoft.com/en-us/services/devops/pipelines"
+  },
+  {
+    "skill_id": "gcp",
+    "name": "Google Cloud Platform",
+    "description_short": "Google's cloud computing platform",
+    "description_long": "Suite of cloud computing services that runs on the same infrastructure as Google's products",
+    "domain": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "sub_domains": [
+      "Computing Services",
+      "Data Analytics",
+      "Machine Learning"
+    ],
+    "industries": [
+      "Technology",
+      "Startups",
+      "Media",
+      "Gaming"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://cloud.google.com"
+  },
+  {
+    "skill_id": "bigquery",
+    "name": "Google Cloud BigQuery",
+    "description_short": "Serverless data warehouse",
+    "description_long": "Fully managed, serverless data warehouse that enables super-fast SQL queries using Google's infrastructure",
+    "domain": [
+      "Data Warehouse",
+      "Big Data"
+    ],
+    "sub_domains": [
+      "Data Analytics",
+      "SQL Processing",
+      "Business Intelligence"
+    ],
+    "industries": [
+      "Technology",
+      "Media",
+      "E-commerce",
+      "Research"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://cloud.google.com/bigquery"
+  },
+  {
+    "skill_id": "scala",
+    "name": "Scala",
+    "description_short": "JVM-based programming language",
+    "description_long": "General-purpose programming language providing support for both object-oriented and functional programming",
+    "domain": [
+      "Programming Language",
+      "Big Data"
+    ],
+    "sub_domains": [
+      "Functional Programming",
+      "Big Data Processing",
+      "Distributed Systems"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Big Data",
+      "Enterprise"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://scala-lang.org"
+  },
+  {
+    "skill_id": "go",
+    "name": "Go Language",
+    "description_short": "Systems programming language by Google",
+    "description_long": "Open source programming language that makes it easy to build simple, reliable, and efficient software",
+    "domain": [
+      "Programming Language",
+      "Systems Programming"
+    ],
+    "sub_domains": [
+      "Microservices",
+      "Cloud Native",
+      "Backend Development"
+    ],
+    "industries": [
+      "Technology",
+      "Cloud Services",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://golang.org"
+  },
+  {
+    "skill_id": "csharp",
+    "name": "C#",
+    "description_short": "Microsoft's object-oriented programming language",
+    "description_long": "General-purpose, multi-paradigm programming language encompassing strong typing and object-oriented programming",
+    "domain": [
+      "Programming Language",
+      "Enterprise Development"
+    ],
+    "sub_domains": [
+      "Web Development",
+      "Desktop Applications",
+      "Game Development"
+    ],
+    "industries": [
+      "Enterprise",
+      "Gaming",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  },
+  {
+    "skill_id": "kotlin",
+    "name": "Kotlin",
+    "description_short": "Modern programming language for JVM",
+    "description_long": "Cross-platform, statically typed, general-purpose programming language with type inference",
+    "domain": [
+      "Programming Language",
+      "Mobile Development"
+    ],
+    "sub_domains": [
+      "Android Development",
+      "Backend Development",
+      "Multiplatform"
+    ],
+    "industries": [
+      "Technology",
+      "Mobile",
+      "Enterprise",
+      "Startups"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://kotlinlang.org"
+  },
+  {
+    "skill_id": "elasticsearch",
+    "name": "Elasticsearch",
+    "description_short": "Distributed search and analytics engine",
+    "description_long": "Distributed, RESTful search and analytics engine capable of addressing a growing number of use cases",
+    "domain": [
+      "Search Engine",
+      "Analytics"
+    ],
+    "sub_domains": [
+      "Full-text Search",
+      "Log Analytics",
+      "Real-time Analytics"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Media",
+      "Security"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://elastic.co"
+  },
+  {
+    "skill_id": "grafana",
+    "name": "Grafana",
+    "description_short": "Multi-platform analytics and monitoring",
+    "description_long": "Multi-platform open source analytics and interactive visualization web application",
+    "domain": [
+      "Monitoring",
+      "Data Visualization"
+    ],
+    "sub_domains": [
+      "Dashboard Creation",
+      "Metrics Monitoring",
+      "Alerting"
+    ],
+    "industries": [
+      "Technology",
+      "DevOps",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://grafana.com"
+  },
+  {
+    "skill_id": "prometheus",
+    "name": "Prometheus",
+    "description_short": "Monitoring system and time series database",
+    "description_long": "Open-source systems monitoring and alerting toolkit with a dimensional data model",
+    "domain": [
+      "Monitoring",
+      "Time Series Database"
+    ],
+    "sub_domains": [
+      "Metrics Collection",
+      "Alerting",
+      "Service Discovery"
+    ],
+    "industries": [
+      "Technology",
+      "DevOps",
+      "Cloud Services",
+      "Infrastructure"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://prometheus.io"
+  },
+  {
+    "skill_id": "mysql",
+    "name": "MySQL",
+    "description_short": "Open-source relational database",
+    "description_long": "Open-source relational database management system based on SQL",
+    "domain": [
+      "Database",
+      "Data Storage"
+    ],
+    "sub_domains": [
+      "Relational Databases",
+      "Web Applications",
+      "Data Storage"
+    ],
+    "industries": [
+      "Technology",
+      "Web Development",
+      "E-commerce",
+      "Enterprise"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://mysql.com"
+  },
+  {
+    "skill_id": "mssql",
+    "name": "Microsoft SQL Server",
+    "description_short": "Microsoft's relational database system",
+    "description_long": "Relational database management system developed by Microsoft for enterprise environments",
+    "domain": [
+      "Database",
+      "Enterprise Data"
+    ],
+    "sub_domains": [
+      "Enterprise Databases",
+      "Business Intelligence",
+      "Data Warehousing"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://microsoft.com/en-us/sql-server"
+  },
+  {
+    "skill_id": "oracle_db",
+    "name": "Oracle RDBMS",
+    "description_short": "Enterprise relational database system",
+    "description_long": "Multi-model database management system produced and marketed by Oracle Corporation",
+    "domain": [
+      "Database",
+      "Enterprise Data"
+    ],
+    "sub_domains": [
+      "Enterprise Databases",
+      "Data Warehousing",
+      "High-Performance Computing"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Government",
+      "Large Corporations"
+    ],
+    "demand": "medium",
+    "trend": "low",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://oracle.com/database"
+  },
+  {
+    "skill_id": "sqlite",
+    "name": "SQLite",
+    "description_short": "Lightweight embedded database",
+    "description_long": "C-language library that implements a small, fast, self-contained SQL database engine",
+    "domain": [
+      "Database",
+      "Embedded Systems"
+    ],
+    "sub_domains": [
+      "Embedded Databases",
+      "Mobile Applications",
+      "Local Storage"
+    ],
+    "industries": [
+      "Technology",
+      "Mobile Development",
+      "IoT",
+      "Desktop Applications"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://sqlite.org"
+  },
+  {
+    "skill_id": "hibernate",
+    "name": "Hibernate",
+    "description_short": "Java ORM framework",
+    "description_long": "Object-relational mapping framework for Java that provides mapping from Java classes to database tables",
+    "domain": [
+      "Java Framework",
+      "ORM"
+    ],
+    "sub_domains": [
+      "Database Abstraction",
+      "Object Mapping",
+      "Enterprise Java"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Healthcare",
+      "Government"
+    ],
+    "demand": "medium",
+    "trend": "low",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://hibernate.org"
+  },
+  {
+    "skill_id": "mybatis",
+    "name": "MyBatis",
+    "description_short": "Java persistence framework",
+    "description_long": "Persistence framework that couples objects with stored procedures or SQL statements",
+    "domain": [
+      "Java Framework",
+      "Database"
+    ],
+    "sub_domains": [
+      "SQL Mapping",
+      "Database Access",
+      "Java Persistence"
+    ],
+    "industries": [
+      "Enterprise",
+      "Finance",
+      "Government"
+    ],
+    "demand": "low",
+    "trend": "low",
+    "trend_reason": "",
+    "future_need": "low",
+    "resources": "https://mybatis.org"
+  },
+  {
+    "skill_id": "redux",
+    "name": "Redux",
+    "description_short": "State management library for JavaScript",
+    "description_long": "Predictable state container for JavaScript applications, commonly used with React",
+    "domain": [
+      "Frontend Development",
+      "State Management"
+    ],
+    "sub_domains": [
+      "React Development",
+      "Application State",
+      "Functional Programming"
+    ],
+    "industries": [
+      "Technology",
+      "Web Development",
+      "E-commerce",
+      "Media"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://redux.js.org"
+  },
+  {
+    "skill_id": "react_native",
+    "name": "React Native",
+    "description_short": "Mobile app development framework",
+    "description_long": "Open-source framework for building mobile applications using React and JavaScript",
+    "domain": [
+      "Mobile Development",
+      "Cross-Platform"
+    ],
+    "sub_domains": [
+      "iOS Development",
+      "Android Development",
+      "Hybrid Apps"
+    ],
+    "industries": [
+      "Technology",
+      "Mobile",
+      "E-commerce",
+      "Social Media"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": "https://reactnative.dev"
+  },
+  {
+    "skill_id": "devops_general",
+    "name": "DevOps",
+    "description_short": "Development and Operations integration",
+    "description_long": "Set of practices that combines software development and IT operations to shorten development lifecycle",
+    "domain": [
+      "Software Development",
+      "Operations"
+    ],
+    "sub_domains": [
+      "CI/CD",
+      "Infrastructure Automation",
+      "Monitoring"
+    ],
+    "industries": [
+      "Technology",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "agile_methodology",
+    "name": "Agile",
+    "description_short": "Iterative software development methodology",
+    "description_long": "Set of principles for software development under which requirements and solutions evolve through collaboration",
+    "domain": [
+      "Project Management",
+      "Software Development"
+    ],
+    "sub_domains": [
+      "Scrum",
+      "Kanban",
+      "Lean Development"
+    ],
+    "industries": [
+      "Technology",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "kanban",
+    "name": "Kanban",
+    "description_short": "Visual project management method",
+    "description_long": "Lean method to manage and improve work across human systems by visualizing work and limiting work in progress",
+    "domain": [
+      "Project Management",
+      "Process Improvement"
+    ],
+    "sub_domains": [
+      "Visual Management",
+      "Continuous Improvement",
+      "Workflow Optimization"
+    ],
+    "industries": [
+      "Technology",
+      "Manufacturing",
+      "Healthcare",
+      "All Industries"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "",
+    "future_need": "medium",
+    "resources": ""
+  },
+  {
+    "skill_id": "microservices_arch",
+    "name": "Microservice Architecture Style",
+    "description_short": "Distributed system architecture pattern",
+    "description_long": "Architectural approach that structures an application as a collection of loosely coupled services",
+    "domain": [
+      "Software Architecture",
+      "Distributed Systems"
+    ],
+    "sub_domains": [
+      "Service Design",
+      "API Design",
+      "Distributed Computing"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Finance",
+      "Large Scale Systems"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "oauth",
+    "name": "OAuth",
+    "description_short": "Authorization framework",
+    "description_long": "Open standard for access delegation commonly used for token-based authentication",
+    "domain": [
+      "Security",
+      "Authentication"
+    ],
+    "sub_domains": [
+      "API Security",
+      "Single Sign-On",
+      "Token Management"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "All Industries"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": ""
+  },
+  {
+    "skill_id": "keycloak",
+    "name": "Keycloak",
+    "description_short": "Identity and access management solution",
+    "description_long": "Open source identity and access management solution for modern applications and services",
+    "domain": [
+      "Security",
+      "Identity Management"
+    ],
+    "sub_domains": [
+      "Single Sign-On",
+      "Identity Federation",
+      "User Management"
+    ],
+    "industries": [
+      "Enterprise",
+      "Technology",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://keycloak.org"
+  },
+  {
+    "skill_id": "okta",
+    "name": "Okta",
+    "description_short": "Identity and access management platform",
+    "description_long": "Cloud-based identity and access management platform for enterprise security",
+    "domain": [
+      "Security",
+      "Identity Management"
+    ],
+    "sub_domains": [
+      "Single Sign-On",
+      "Multi-Factor Authentication",
+      "Identity Federation"
+    ],
+    "industries": [
+      "Enterprise",
+      "Technology",
+      "Finance",
+      "Healthcare"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://okta.com"
+  },
+  {
+    "skill_id": "quarkus",
+    "name": "Quarkus",
+    "description_short": "Kubernetes-native Java framework",
+    "description_long": "Cloud-native Java framework tailored for GraalVM and OpenJDK HotSpot with fast boot times",
+    "domain": [
+      "Java Framework",
+      "Cloud Native"
+    ],
+    "sub_domains": [
+      "Microservices",
+      "Native Compilation",
+      "Container Optimization"
+    ],
+    "industries": [
+      "Technology",
+      "Enterprise",
+      "Cloud Services"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://quarkus.io"
+  },
+  {
+    "skill_id": "grpc",
+    "name": "gRPC",
+    "description_short": "High-performance RPC framework",
+    "description_long": "Modern open source high performance Remote Procedure Call framework",
+    "domain": [
+      "API Development",
+      "Microservices"
+    ],
+    "sub_domains": [
+      "Service Communication",
+      "Protocol Buffers",
+      "Streaming"
+    ],
+    "industries": [
+      "Technology",
+      "Microservices",
+      "Distributed Systems"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "",
+    "future_need": "high",
+    "resources": "https://grpc.io"
+  },
+  {
+    "skill_id": "soap",
+    "name": "SOAP",
+    "description_short": "A protocol for exchanging structured information in the implementation of web services, often using XML.",
+    "description_long": "SOAP (Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information for web services in computer networks. It is known for being robust and standardized, but is often seen as more verbose and complex than modern alternatives like REST.",
+    "domain": [
+      "Web Services",
+      "API",
+      "Enterprise Software"
+    ],
+    "sub_domains": [
+      "Legacy Systems Integration",
+      "Enterprise Application Integration (EAI)"
+    ],
+    "industries": [
+      "Banking",
+      "Telecommunications",
+      "Government",
+      "Healthcare"
+    ],
+    "demand": "low",
+    "trend": "low",
+    "trend_reason": "The industry has largely shifted towards more lightweight, flexible, and easier-to-use alternatives like REST and GraphQL for new projects. SOAP skills are now primarily valuable for maintaining legacy enterprise systems.",
+    "future_need": "low",
+    "resources": "https://www.w3.org/TR/soap/"
+  },
+  {
+    "skill_id": "junit",
+    "name": "JUnit",
+    "description_short": "A popular unit testing framework for the Java programming language.",
+    "description_long": "JUnit is a widely-used unit testing framework essential for Test-Driven Development (TDD) in the Java ecosystem. It helps developers write and run repeatable tests to ensure code quality, correctness, and reliability.",
+    "domain": [
+      "Software Development",
+      "Software Testing",
+      "Quality Assurance"
+    ],
+    "sub_domains": [
+      "Unit Testing",
+      "Test-Driven Development (TDD)",
+      "Java Ecosystem"
+    ],
+    "industries": [
+      "Software",
+      "Finance",
+      "E-commerce",
+      "Any industry using Java"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "As a foundational tool for Java, a persistently popular language, JUnit's demand is consistently high and stable. The trend is medium (stable) rather than high-growth because it is a mature, established technology, not a new emerging one.",
+    "future_need": "high",
+    "resources": "https://junit.org/junit5/"
+  },
+  {
+    "skill_id": "junit",
+    "name": "JUnit",
+    "description_short": "A popular unit testing framework for the Java programming language.",
+    "description_long": "JUnit is a widely-used unit testing framework essential for Test-Driven Development (TDD) in the Java ecosystem. It helps developers write and run repeatable tests to ensure code quality, correctness, and reliability.",
+    "domain": [
+      "Software Development",
+      "Software Testing",
+      "Quality Assurance"
+    ],
+    "sub_domains": [
+      "Unit Testing",
+      "Test-Driven Development (TDD)",
+      "Java Ecosystem"
+    ],
+    "industries": [
+      "Software",
+      "Finance",
+      "E-commerce",
+      "Any industry using Java"
+    ],
+    "demand": "high",
+    "trend": "medium",
+    "trend_reason": "As a foundational tool for Java, a persistently popular language, JUnit's demand is consistently high and stable. The trend is medium (stable) rather than high-growth because it is a mature, established technology, not a new emerging one.",
+    "future_need": "high",
+    "resources": "https://junit.org/junit5/"
+  },
+  {
+    "skill_id": "etl_elt_solutions",
+    "name": "ETL/ELT Solutions",
+    "description_short": "Designing and implementing processes for data extraction, transformation, and loading (ETL) or extraction, loading, and transformation (ELT).",
+    "description_long": "This skill involves using tools and techniques to design and build data pipelines. ETL/ELT are two approaches for moving data from various sources into a centralized repository like a data warehouse or data lake for analysis, reporting, and business intelligence.",
+    "domain": [
+      "Data Engineering",
+      "Big Data",
+      "Business Intelligence"
+    ],
+    "sub_domains": [
+      "Data Warehousing",
+      "Data Integration",
+      "Data Pipelines"
+    ],
+    "industries": [
+      "Finance",
+      "Retail",
+      "Healthcare",
+      "Technology",
+      "Any data-driven industry"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "The explosion of data and the critical need for data-driven decision-making are driving massive demand for professionals who can manage data pipelines. The shift to cloud data warehouses has further fueled the growth of ELT patterns.",
+    "future_need": "high",
+    "resources": "https://www.snowflake.com/guides/what-etl"
+  },
+  {
+    "skill_id": "etl_elt_solutions",
+    "name": "ETL/ELT Solutions",
+    "description_short": "Designing and implementing processes for data extraction, transformation, and loading (ETL) or extraction, loading, and transformation (ELT).",
+    "description_long": "This skill involves using tools and techniques to design and build data pipelines. ETL/ELT are two approaches for moving data from various sources into a centralized repository like a data warehouse or data lake for analysis, reporting, and business intelligence.",
+    "domain": [
+      "Data Engineering",
+      "Big Data",
+      "Business Intelligence"
+    ],
+    "sub_domains": [
+      "Data Warehousing",
+      "Data Integration",
+      "Data Pipelines"
+    ],
+    "industries": [
+      "Finance",
+      "Retail",
+      "Healthcare",
+      "Technology",
+      "Any data-driven industry"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "The explosion of data and the critical need for data-driven decision-making are driving massive demand for professionals who can manage data pipelines. The shift to cloud data warehouses has further fueled the growth of ELT patterns.",
+    "future_need": "high",
+    "resources": "https://www.snowflake.com/guides/what-etl"
+  },
+  {
+    "skill_id": "fivetran",
+    "name": "Fivetran",
+    "description_short": "An automated data integration platform that moves data from disparate sources into a cloud data warehouse.",
+    "description_long": "Fivetran is a leading automated data movement platform providing pre-built connectors to extract and load data into cloud platforms like Snowflake, BigQuery, and Redshift. It simplifies the Extract and Load steps in the ELT process, reducing engineering overhead.",
+    "domain": [
+      "Data Engineering",
+      "Data Integration"
+    ],
+    "sub_domains": [
+      "ELT",
+      "Cloud Data Warehousing",
+      "Automated Data Pipelines"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Marketing",
+      "Finance"
+    ],
+    "demand": "medium",
+    "trend": "high",
+    "trend_reason": "The move to modern, cloud-based data stacks and the desire to accelerate data analytics projects makes automated, low-maintenance tools like Fivetran increasingly popular, driving strong growth in demand.",
+    "future_need": "high",
+    "resources": "https://www.fivetran.com/"
+  },
+  {
+    "skill_id": "talend_data_integration",
+    "name": "Talend Data Integration",
+    "description_short": "A powerful open-source ETL tool for data integration and management.",
+    "description_long": "Talend Data Integration provides a graphical user interface (GUI) to visually design and deploy data integration workflows and ETL/ELT pipelines. It is a mature product that supports a wide range of data sources and destinations.",
+    "domain": [
+      "Data Engineering",
+      "Data Integration",
+      "ETL"
+    ],
+    "sub_domains": [
+      "Data Warehousing",
+      "Master Data Management",
+      "Data Quality"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Retail",
+      "Government"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "Talend is a well-established player in the traditional ETL space and is still widely used in many large enterprises. However, it faces growing competition from more modern, cloud-native data integration platforms, leading to stable but not high-growth demand.",
+    "future_need": "medium",
+    "resources": "https://www.talend.com/products/data-integration/"
+  },
+  {
+    "skill_id": "scala",
+    "name": "Scala",
+    "description_short": "A high-level language combining object-oriented and functional programming, running on the JVM.",
+    "description_long": "Scala (Scalable Language) is a general-purpose language known for its strong static type system and functional programming features. It is heavily used in big data processing, particularly as the core language for Apache Spark.",
+    "domain": [
+      "Programming Language",
+      "Big Data",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "Functional Programming",
+      "Data Engineering",
+      "Apache Spark"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce"
+    ],
+    "demand": "medium",
+    "trend": "low",
+    "trend_reason": "While powerful and essential for frameworks like Spark, Scala's adoption has slowed due to its steep learning curve and the rising dominance of Python (with PySpark) in the data engineering and data science fields.",
+    "future_need": "medium",
+    "resources": "https://www.scala-lang.org/"
+  },
+  {
+    "skill_id": "algorithms_data_structures",
+    "name": "Algorithms & Data Structures",
+    "description_short": "Fundamental computer science concepts for organizing, processing, and storing data efficiently.",
+    "description_long": "This is a foundational skill in computer science involving the understanding of various data structures (like arrays, trees, graphs) and algorithms (like sorting, searching) to write efficient, scalable, and optimized code.",
+    "domain": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "sub_domains": [
+      "Problem Solving",
+      "Performance Optimization",
+      "System Design"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Gaming",
+      "Any industry requiring performant software"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "This is a timeless and fundamental skill. As software systems grow in complexity and data volumes increase, the need for efficient code based on solid algorithmic principles becomes more critical than ever. It's a core requirement for nearly all software engineering roles.",
+    "future_need": "high",
+    "resources": "https://www.geeksforgeeks.org/data-structures/"
+  },
+  {
+    "skill_id": "elasticsearch",
+    "name": "Elasticsearch",
+    "description_short": "A distributed, RESTful search and analytics engine for various use cases.",
+    "description_long": "Elasticsearch is a highly scalable open-source full-text search and analytics engine. It allows you to store, search, and analyze large volumes of data in near real-time. It is the central component of the Elastic Stack (ELK) and is widely used for application search, log analytics, and observability.",
+    "domain": [
+      "Search Engine",
+      "Big Data",
+      "Data Analytics",
+      "DevOps"
+    ],
+    "sub_domains": [
+      "Log Aggregation",
+      "Full-Text Search",
+      "Observability",
+      "SIEM"
+    ],
+    "industries": [
+      "E-commerce",
+      "Technology",
+      "Finance",
+      "Media",
+      "Cybersecurity"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "The increasing need for real-time search, logging, and observability in modern, distributed applications drives strong demand for Elasticsearch. Its versatility across multiple critical use cases ensures its continued growth.",
+    "future_need": "high",
+    "resources": "https://www.elastic.co/elasticsearch/"
+  },
+  {
+    "skill_id": "microservice_architecture",
+    "name": "Microservice Architecture",
+    "description_short": "An architectural style that structures an application as a collection of loosely coupled, independently deployable services.",
+    "description_long": "Microservice architecture is an approach to developing applications as a suite of small services, each running in its own process and communicating via lightweight mechanisms like HTTP APIs. This style enables better scalability, resilience, and faster, independent development cycles compared to traditional monolithic architectures.",
+    "domain": [
+      "Software Architecture",
+      "System Design",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "Cloud-Native Development",
+      "DevOps",
+      "API Design",
+      "Containerization"
+    ],
+    "industries": [
+      "Technology",
+      "E-commerce",
+      "Finance",
+      "Streaming Media"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "Microservices have become the de-facto standard for building large, scalable, and resilient cloud-native applications. The widespread adoption of containers (Docker, Kubernetes) and CI/CD has cemented this architectural pattern as a dominant force in modern software development.",
+    "future_need": "high",
+    "resources": "https://microservices.io/"
+  },
+  {
+    "skill_id": "boto3",
+    "name": "Boto3",
+    "description_short": "The official Amazon Web Services (AWS) SDK for the Python programming language.",
+    "description_long": "Boto3 allows Python developers to write software that interacts with AWS services like Amazon S3, EC2, DynamoDB, and Lambda. It is the primary tool for automating AWS infrastructure, managing resources, and integrating AWS services into applications.",
+    "domain": [
+      "Cloud Computing",
+      "DevOps",
+      "Backend Development"
+    ],
+    "sub_domains": [
+      "AWS",
+      "Infrastructure as Code (IaC)",
+      "Cloud Automation",
+      "Python"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "Healthcare",
+      "Any industry using AWS"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "As AWS continues to dominate the cloud computing market and Python remains a top programming language, the demand for Boto3 grows in lockstep. It is an essential skill for cloud engineers, DevOps professionals, and backend developers working in the AWS ecosystem.",
+    "future_need": "high",
+    "resources": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
+  },
+  {
+    "skill_id": "python_ml",
+    "name": "Python for Machine Learning",
+    "description_short": "Using Python and its libraries for machine learning tasks like data analysis, model training, and deployment.",
+    "description_long": "This skill involves leveraging Python's rich ecosystem of libraries (e.g., Scikit-Learn, TensorFlow, PyTorch, Pandas) to build and deploy machine learning models. It covers the entire ML lifecycle, from data preprocessing to model evaluation and serving.",
+    "domain": [
+      "Machine Learning",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "sub_domains": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Deep Learning",
+      "Natural Language Processing (NLP)"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Retail",
+      "Automotive"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "Python is the undisputed dominant language for machine learning and AI due to its simplicity and powerful libraries. The rapid adoption of AI across all industries is driving unprecedented and sustained demand for this skill set.",
+    "future_need": "high",
+    "resources": "https://www.python.org/about/gettingstarted/"
+  },
+  {
+    "skill_id": "content_management_systems",
+    "name": "Content Management Systems (CMS)",
+    "description_short": "Software used to create, manage, and modify digital content, typically for websites.",
+    "description_long": "A Content Management System (CMS) helps users create and manage digital content without needing specialized technical knowledge. This category includes traditional platforms like WordPress and Drupal, as well as modern 'headless' systems like Contentful and Strapi that serve content via APIs.",
+    "domain": [
+      "Web Development",
+      "Digital Marketing"
+    ],
+    "sub_domains": [
+      "Web Content Management",
+      "Headless CMS",
+      "E-commerce Platforms"
+    ],
+    "industries": [
+      "Media",
+      "Retail",
+      "Marketing",
+      "Education",
+      "Any industry with a web presence"
+    ],
+    "demand": "medium",
+    "trend": "medium",
+    "trend_reason": "While CMS platforms are ubiquitous, the demand is fragmented across many different systems. The most significant trend is the shift from traditional, monolithic systems toward more flexible, API-first headless CMSs to support a wider range of digital experiences.",
+    "future_need": "medium",
+    "resources": "https://wordpress.org/"
+  },
+  {
+    "skill_id": "ci_cd",
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)",
+    "description_short": "The practice of automating the build, testing, and deployment stages of the software release process.",
+    "description_long": "CI/CD is a core practice of DevOps. Continuous Integration (CI) involves frequently merging code changes into a central repository, where automated builds and tests are run. Continuous Deployment/Delivery (CD) automates the release of validated code to production.",
+    "domain": [
+      "DevOps",
+      "Software Engineering",
+      "Cloud Computing"
+    ],
+    "sub_domains": [
+      "Automation",
+      "Software Testing",
+      "Release Management",
+      "GitOps"
+    ],
+    "industries": [
+      "Technology",
+      "Finance",
+      "E-commerce",
+      "Any industry with modern software development"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "CI/CD is fundamental to modern, agile software development. It enables teams to deliver higher quality software faster and more reliably. The widespread adoption of DevOps and cloud-native architectures makes CI/CD an essential skill.",
+    "future_need": "high",
+    "resources": "https://www.atlassian.com/continuous-delivery/ci-cd"
+  },
+  {
+    "skill_id": "snowflake_copilot",
+    "name": "Snowflake Copilot",
+    "description_short": "An AI-powered assistant in Snowflake that translates natural language questions into SQL queries.",
+    "description_long": "Snowflake Copilot is an LLM-powered assistant integrated into the Snowflake Data Cloud. It allows users to ask data questions in natural language, which it then translates into SQL queries, making complex data analysis more accessible to a broader audience.",
+    "domain": [
+      "Data Analytics",
+      "Cloud Data Warehousing",
+      "Artificial Intelligence",
+      "Business Intelligence"
+    ],
+    "sub_domains": [
+      "Natural Language to SQL",
+      "AI-assisted Development",
+      "Data Exploration"
+    ],
+    "industries": [
+      "Any industry using Snowflake for data warehousing and analytics"
+    ],
+    "demand": "low",
+    "trend": "high",
+    "trend_reason": "As a very new product, current direct demand is low. However, the trend towards AI-powered assistants ('copilots') in all major tech platforms is extremely high. As it matures and is adopted by Snowflake's large customer base, demand is expected to grow rapidly.",
+    "future_need": "high",
+    "resources": "https://www.snowflake.com/en/data-cloud/snowflake-copilot/"
+  },
+  {
+    "skill_id": "scikit_learn",
+    "name": "Scikit-Learn",
+    "description_short": "A free software machine learning library for the Python programming language.",
+    "description_long": "Scikit-learn is one of the most popular ML libraries for Python. It provides simple and efficient tools for predictive data analysis, featuring a wide range of classification, regression, clustering, and model selection algorithms built on top of NumPy and SciPy.",
+    "domain": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "sub_domains": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Model Selection",
+      "Data Preprocessing"
+    ],
+    "industries": [
+      "Technology",
+      "Healthcare",
+      "Finance",
+      "Academia",
+      "Retail"
+    ],
+    "demand": "high",
+    "trend": "high",
+    "trend_reason": "Scikit-learn is the go-to library for general-purpose machine learning in Python. Its ease of use, robust implementation of classic algorithms, and excellent documentation make it a foundational and highly sought-after skill for anyone in data science or ML.",
+    "future_need": "high",
+    "resources": "https://scikit-learn.org/stable/"
+  }
+]
