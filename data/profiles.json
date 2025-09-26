@@ -1,60 +1,93 @@
 [
   {
-    "id": 1,
-    "title": "AI/Machine Learning Engineer",
-    "strategic_importance": "As the primary architects of the AI revolution, these engineers are responsible for designing, building, training, and deploying machine learning models and generative AI applications. This role is at the absolute forefront of innovation, directly creating new business value through automation, prediction, and intelligent systems.",
+    "id": "ai_engineer",
+    "cover": "images/ai_engineer.png",
+    "title": "AI Engineer",
+    "strategic_importance": "Focuses on designing and building end-to-end intelligent systems by integrating various AI components (ML, NLP, CV). They are crucial for creating new AI-powered products and automating complex business processes.",
     "core_responsibilities": [
-      "Full lifecycle management of models from data preprocessing to deployment",
-      "Data preprocessing and feature engineering",
-      "Model training and fine-tuning",
-      "Building and maintaining MLOps pipelines",
-      "Implementing Retrieval-Augmented Generation (RAG) systems",
-      "Advanced prompt engineering",
-      "Design and integration of autonomous AI agents"
+      "Designing, developing, and deploying complex AI solutions and cognitive systems.",
+      "Integrating machine learning models with other components like NLP, computer vision, and rule-based systems.",
+      "Building and managing the infrastructure for AI model development and deployment at scale.",
+      "Researching and implementing cutting-edge AI algorithms and architectures to solve specific business problems.",
+      "Collaborating with stakeholders to define AI requirements and translate them into technical specifications."
     ],
     "essential_skills": [
       {
-        "domain": "Programming Languages",
+        "domain": "Programming & Software Engineering",
         "skills": [
           "Python",
-          "Data science ecosystem (Pandas, Numpy, Scikit-Learn)"
+          "C++",
+          "Java",
+          "Strong understanding of algorithms, data structures, and system design"
         ]
       },
       {
-        "domain": "Deep Learning Frameworks",
+        "domain": "AI & Machine Learning",
         "skills": [
-          "TensorFlow",
-          "PyTorch"
+          "Deep Learning Frameworks (TensorFlow, PyTorch)",
+          "Data science ecosystem (Pandas, Numpy, Scikit-Learn)",
+          "Natural Language Processing (NLP) toolkits (Hugging Face, spaCy, NLTK)",
+          "Computer Vision (CV) libraries (OpenCV)"
         ]
       },
       {
-        "domain": "MLOps and Infrastructure",
+        "domain": "Data & Infrastructure",
         "skills": [
-          "MLflow for experiment tracking",
-          "Kubernetes for scalable deployment"
-        ]
-      },
-      {
-        "domain": "Generative AI Technologies",
-        "skills": [
-          "LangChain",
-          "LangGraph",
-          "Retrieval-Augmented Generation (RAG)"
-        ]
-      },
-      {
-        "domain": "Cloud Platforms",
-        "skills": [
-          "Azure AI",
-          "AWS SageMaker",
-          "Google Vertex AI"
+          "Cloud Platforms (AWS, Azure, GCP)",
+          "Big Data Technologies (Apache Spark, Hadoop)",
+          "Containerization & Orchestration (Docker, Kubernetes)",
+          "MLOps principles and tools"
         ]
       }
     ],
     "category": "AI/Data"
   },
   {
-    "id": 2,
+    "id": "ml_engineer",
+    "cover": "images/ml_engineer.png",
+    "title": "Machine Learning Engineer",
+    "strategic_importance": "Bridges the gap between data science and software engineering by operationalizing ML models. They are essential for turning ML prototypes into scalable, reliable, and production-ready applications that deliver business value.",
+    "core_responsibilities": [
+      "Designing, building, and productionizing scalable machine learning models.",
+      "Developing and maintaining robust ML pipelines for data preprocessing, model training, deployment, and monitoring.",
+      "Managing the full lifecycle of machine learning models (MLOps), including versioning, testing, and continuous integration/delivery (CI/CD).",
+      "Optimizing models for performance, latency, and resource consumption.",
+      "Collaborating with data scientists to refine models and with software engineers to integrate them into applications."
+    ],
+    "essential_skills": [
+      {
+        "domain": "Programming & Software Engineering",
+        "skills": [
+          "Python",
+          "SQL",
+          "Software development best practices (version control, testing, CI/CD)",
+          "API development (e.g., FastAPI, Flask)"
+        ]
+      },
+      {
+        "domain": "MLOps & Deployment",
+        "skills": [
+          "Containerization & Orchestration (Docker, Kubernetes)",
+          "ML Platforms (Kubeflow, MLflow, Seldon Core)",
+          "Cloud ML Services (AWS SageMaker, Google Vertex AI, Azure ML)",
+          "CI/CD Tools (Jenkins, GitLab CI)"
+        ]
+      },
+      {
+        "domain": "Machine Learning & Data",
+        "skills": [
+          "ML Frameworks (Scikit-Learn, TensorFlow, PyTorch)",
+          "Data science ecosystem (Pandas, Numpy)",
+          "Data processing tools (Apache Spark, Dask)",
+          "Understanding of core ML algorithms and model evaluation metrics"
+        ]
+      }
+    ],
+    "category": "AI/Data"
+  },
+  {
+    "id": "data_engineer",
+    "cover": "images/data_engineer.png",
     "title": "Data Engineer",
     "strategic_importance": "Data Engineers are the builders of the digital infrastructure that underpins all data-driven initiatives. They construct and manage the 'data highways'—pipelines, warehouses, and lakes—that make business analytics and AI possible. This role is foundational; without clean, reliable, and accessible data, both data science and machine learning efforts are destined to fail.",
     "core_responsibilities": [
@@ -104,7 +137,8 @@
     "category": "AI/Data"
   },
   {
-    "id": 3,
+    "id": "cloud_devops_engineer",
+    "cover": "images/cloud_devops_engineer.png",
     "title": "Cloud DevOps Engineer",
     "strategic_importance": "The Cloud DevOps Engineer is the critical enabler of speed, scalability, and reliability in modern software development. This role bridges the traditional gap between development and operations by applying software engineering principles to infrastructure management. They create the automated, self-healing foundation upon which all modern cloud-native applications are built and deployed.",
     "core_responsibilities": [
@@ -155,8 +189,9 @@
     "category": "Infrastructure/Cloud"
   },
   {
-    "id": 4,
-    "title": "Full-Stack Developer (Modern Focus)",
+    "id": "full_stack_developer",
+    "cover": "images/full_stack_developer.png",
+    "title": "Full-Stack Developer",
     "strategic_importance": "Full-Stack Developers are the versatile creators of user-facing web and mobile applications. They possess a broad skillset that spans both the front-end (client-side) and back-end (server-side) of an application. The modern Full-Stack Developer is distinguished by their ability to not only write code for both tiers but also to deploy and manage their applications in a cloud-native environment.",
     "core_responsibilities": [
       "End-to-end development of application features",
@@ -206,7 +241,8 @@
     "category": "Development"
   },
   {
-    "id": 5,
+    "id": "cybersecurity_engineer",
+    "cover": "images/cybersecurity_engineer.png",
     "title": "Cybersecurity Engineer",
     "strategic_importance": "As organizations become more digitized, their exposure to cyber threats increases exponentially. The Cybersecurity Engineer is on the front lines of defense, designing and building the systems that protect critical infrastructure and sensitive data from attack. With the cost and frequency of data breaches rising, and stricter regulatory requirements being enforced, this role has become indispensable for business continuity and risk management. Demand for cybersecurity professionals is surging, with projections showing millions of unfilled positions globally by 2025.",
     "core_responsibilities": [
@@ -260,7 +296,8 @@
     "category": "Security"
   },
   {
-    "id": 6,
+    "id": "platform_engineer",
+    "cover": "images/platform_engineer.png",
     "title": "Platform Engineer",
     "strategic_importance": "The rise of platform engineering is a direct response to the growing complexity of modern software development. As organizations adopt microservices, multi-cloud strategies, and a vast array of development tools, developers can become bogged down by 'cognitive load'—the mental effort required to navigate this complexity. The Platform Engineer addresses this challenge by building and managing a paved road for developers, known as an Internal Developer Platform (IDP). This platform provides a standardized, self-service toolkit for infrastructure, deployment, and monitoring, which dramatically increases developer productivity and accelerates the delivery of new features. This role is widely seen as the next evolution of DevOps, shifting from a project-based mindset to a product-based approach for internal tooling.",
     "core_responsibilities": [
@@ -317,7 +354,8 @@
     "category": "Infrastructure/Cloud"
   },
   {
-    "id": 7,
+    "id": "data_scientist",
+    "cover": "images/data_scientist.png",
     "title": "Data Scientist",
     "strategic_importance": "In an economy where data is a primary asset, Data Scientists are the experts who transform raw data into strategic insights and business value. They go beyond traditional data analysis to build predictive models and machine learning algorithms that can forecast future trends, automate complex decisions, and create personalized customer experiences. The demand for these skills is projected to grow significantly, as organizations across all sectors seek to leverage their data to gain a competitive edge.",
     "core_responsibilities": [
